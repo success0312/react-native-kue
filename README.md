@@ -32,3 +32,11 @@ Launch android simulation
 ```
 react-native run-android
 ```
+
+
+## Technologies
+```
+react-native-facebook-login,
+react-native-push-notification,
+react-native-modal-picker, react-navigation
+```
